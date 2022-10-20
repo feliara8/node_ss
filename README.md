@@ -1,11 +1,11 @@
 # Node summary statistics
 
-# RUN Tests
+## RUN Tests
 
 - npm install
 - npm run test
 
-# Run DEV env locally
+## Run DEV env locally
 
 - docker-compose up
  
