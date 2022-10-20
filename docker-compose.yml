@@ -1,0 +1,8 @@
+services:
+  router:
+    build: .
+    ports:
+      - "1919:8080"
+    environment:
+      - NODE_ENV=test
+    command: 'npm run start'
